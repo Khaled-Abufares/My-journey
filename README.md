@@ -1,3 +1,4 @@
+~~~
 print("welcome to my first calculator!")
 num1 = float(input("Enter the first number"))
 num2 = float(input("Enter the second number"))
@@ -17,3 +18,4 @@ elif choice == "4":
     print("The quotient is:", num1 / num2)
 else:
     print("Invalid choice!")
+~~~
